@@ -14,3 +14,5 @@ While doing this project I learned more about:
 * Restricting access by user roles
 * Database authentication
 * Password encryption using bcrypt algorithm
+* Using Maven for build management and dependencies
+* Maven key concepts
